@@ -1,5 +1,1 @@
-# labo-3-ifttt-doors-nickboone
-
-Nick Boone
-3MMP NMD
-Arteveldehogeschool
+# labo-3-ifttt-adafruit-io-raspi-nickboone
